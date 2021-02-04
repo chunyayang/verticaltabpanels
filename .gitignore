@@ -2,6 +2,8 @@
 node_modules
 /dist
 
+# Google App Engine generated folder
+appengine-generated
 
 # local env files
 .env.local
